@@ -1,0 +1,9 @@
+﻿<xapCache source="C:\dev\c#\myBeerApp\Bin\Debug\myBeerApp.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="4/24/2011 3:54:36 PM">
+  <file source="C:\dev\c#\myBeerApp\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="4/24/2011 3:54:34 PM" />
+  <file source="C:\dev\c#\myBeerApp\obj\Debug\myBeerApp.dll" archivePath="myBeerApp.dll" lastWriteTime="4/24/2011 3:54:36 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.0\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="1/25/2011 12:39:08 AM" />
+  <file source="C:\dev\c#\myBeerApp\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="4/24/2011 3:54:34 PM" />
+  <file source="C:\dev\c#\myBeerApp\Background.png" archivePath="Background.png" lastWriteTime="4/24/2011 3:54:34 PM" />
+  <file source="C:\dev\c#\myBeerApp\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="4/24/2011 3:54:34 PM" />
+  <file source="C:\dev\c#\myBeerApp\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="4/24/2011 3:54:36 PM" />
+</xapCache>

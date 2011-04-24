@@ -1,0 +1,15 @@
+C:\dev\c#\myBeerApp\Bin\Debug\ApplicationIcon.png
+C:\dev\c#\myBeerApp\Bin\Debug\Background.png
+C:\dev\c#\myBeerApp\Bin\Debug\myBeerApp.dll
+C:\dev\c#\myBeerApp\Bin\Debug\myBeerApp.pdb
+C:\dev\c#\myBeerApp\Bin\Debug\AppManifest.xaml
+C:\dev\c#\myBeerApp\Bin\Debug\myBeerApp.xap
+C:\dev\c#\myBeerApp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\dev\c#\myBeerApp\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\dev\c#\myBeerApp\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\c#\myBeerApp\obj\Debug\App.g.i.cs
+C:\dev\c#\myBeerApp\obj\Debug\MainPage.g.i.cs
+C:\dev\c#\myBeerApp\obj\Debug\myBeerApp.g.resources
+C:\dev\c#\myBeerApp\obj\Debug\myBeerApp.dll
+C:\dev\c#\myBeerApp\obj\Debug\myBeerApp.pdb
+C:\dev\c#\myBeerApp\obj\Debug\XapCacheFile.xml
